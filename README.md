@@ -30,11 +30,14 @@ A **Python-based blockchain application** designed to securely manage vehicle re
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/blockchain-vehicle-registry.git
+   git clone https://github.com/GLCRealm/blockchain-vehicle-registry.git
    cd blockchain-vehicle-registry
    ```
 
-2. **Install Dependencies:**
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
    This script uses only standard Python libraries, but ensure you have Python 3.6+ installed.
 
 3. **Run the Application:**
@@ -165,13 +168,9 @@ Contributions are welcome! Please:
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Contact
 For questions or suggestions, feel free to reach out:
-- **Author:** Hritvik Bhandri
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **Author:** [Anshdeep Rawat](https://github.com/GLCRealm)
+- **Email:** [ar1888819@gmail.com](ar1888819@example.com)
+
